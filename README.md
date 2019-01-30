@@ -1,5 +1,6 @@
 # Folketingspolitikere
-Liste over alle folketingspolitikere og deres social media handles
+Liste over alle folketingspolitikere og deres social media handles.
+I forbindelse med det kommende folketingsvalg vil det være godt at kunne følge alle politikere der er i folketinget
 
 Mette Abildgaard (KF)<br>
 Pia Adelsteen (DF)<br>
