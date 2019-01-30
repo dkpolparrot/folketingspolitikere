@@ -1,193 +1,192 @@
 # Folketingspolitikere
 Liste over alle folketingspolitikere og deres social media handles
 
-
-Mette Abildgaard (KF)
-Pia Adelsteen (DF)
-Karina Adsbøl (DF)
-Alex Ahrendtsen (DF)
-Yildiz Akdogan (S)
-Simon Emil Ammitzbøll-Bille (LA)
-Hans Andersen (V)
-Kirsten Normann Andersen (SF)
-Magni Arge (T)
-Ida Auken (RV)
-Carsten Bach (LA)
-Britt Bager (V)
-Lise Bech (DF)
-Pernille Bendixen (DF)
-Kenneth Kristensen Berth (DF)
-Liselott Blixt (DF)
-Mette Bock (LA)
-Erling Bonnesen (V)
-Tilde Bork (DF)
-Trine Bramsen (S)
-Stine Brix (EL)
-Henrik Brodersen (DF)
-Kirsten Brosbøl (S)
-Morten Bødskov (S)
-Bent Bøgsted (DF)
-Jan Rytkjær Callesen (DF)
-Erik Christensen (S)
-René Christensen (DF)
-Villum Christensen (LA)
-Kim Christiansen (DF)
-Henrik Dahl (LA)
-Jens Henrik Thulesen Dahl (DF)
-Kristian Thulesen Dahl (DF)
-Lennart Damsbo-Andersen (S)
-Thomas Danielsen (V)
-Mette Hjermind Dencker (DF)
-Mikkel Dencker (DF)
-Pelle Dragsted (EL)
-Karina Due (DF)
-Kaare Dybvad (S)
-Pia Olsen Dyhr (SF)
-Christina Egelund (LA)
-Susanne Eilersen (DF)
-Uffe Elbæk (ALT)
-Louise Schack Elholm (V)
-Karen Ellemann (V)
-Jakob Ellemann-Jensen (V)
-Benny Engelbrecht (S)
-Jakob Engel-Schmidt (V)
-Søren Espersen (DF)
-Dennis Flydtkjær (DF)
-Eva Flyvholm (EL)
-Claus Hjort Frederiksen (V)
-Mette Frederiksen (S)
-Mads Fuglede (V)
-René Gade (ALT)
-Søren Gade (V)
-Martin Geertsen (V)
-Torsten Gejl (ALT)
-Mette Gjerskov (S)
-Julius Graakjær Grantzau (ALT)
-Karin Gaardsted (S)
-Ane Halsboe-Jørgensen (S)
-Aleqa Hammond (NQ)
-Claus Kvist Hansen (DF)
-Eva Kjer Hansen (V)
-Marlene Harpsøe (DF)
-Orla Hav (S)
-Jane Heitmann (V)
-Martin Henriksen (DF)
-Preben Bang Henriksen (V)
-Magnus Heunicke (S)
-Carl Holst (V)
-Peder Hvelplund (EL)
-Henning Hyllested (EL)
-Nick Hækkerup (S)
-Karsten Hønge (SF)
-Bertel Haarder (V)
-Daniel Toft Jakobsen (S)
-Jeppe Jakobsen (DF)
-Rasmus Jarlov (KF)
-Marianne Jelved (RV)
-Jacob Jensen (V)
-Kristian Jensen (V)
-Leif Lahn Jensen (S)
-Michael Aastrup Jensen (V)
-Mogens Jensen (S)
-Thomas Jensen (S)
-Jens Joel (S)
-Jan Johansen (S)
-Anders Johansson (KF)
-Peter Juel-Jensen (V)
-Christian Juhl (EL)
-Dan Jørgensen (S)
-Jan E. Jørgensen (V)
-May-Britt Kattrup (LA)
-Naser Khader (KF)
-Carsten Kissmeyer (V)
-Pia Kjærsgaard (DF)
-Karen J. Klint (S)
-Brigitte Klintskov Jerkel (KF)
-Marcus Knuth (V)
-Peter Kofod (DF)
-Simon Kollerup (S)
-Astrid Krag (S)
-Marie Krarup (DF)
-Henrik Dam Kristensen (S)
-Christian Langballe (DF)
-Rasmus Horn Langhoff (S)
-Henrik Sass Larsen (S)
-Malte Larsen (S)
-Merete Dea Larsen (DF)
-Aaja Chemnitz Larsen (IA)
-Karsten Lauritzen (V)
-Bjarne Laustsen (S)
-Martin Lidegaard (RV)
-Lars Christian Lilleholt (V)
-Annette Lind (S)
-Laura Lindahl (LA)
-Kristian Pihl Lorentzen (V)
-Erik Lund (KF)
-Rosa Lund (EL)
-Rune Lund (EL)
-Malou Lunderød (S)
-Mogens Lykketoft (S)
-Sophie Løhde (V)
-Christian Rabjerg Madsen (S)
-Carolina Magdalene Maier (ALT)
-Morten Marinus (DF)
-Jacob Mark (SF)
-Anni Matthiesen (V)
-Roger Courage Matthisen (ALT)
-Mai Mercado (KF)
-Jan Erik Messmann (DF)
-Leif Mikkelsen (LA)
-Flemming Møller Mortensen (S)
-Holger K. Nielsen (SF)
-Sofie Carsten Nielsen (RV)
-Rasmus Nordqvist (ALT)
-Karin Nødgaard (DF)
-Ellen Trane Nørby (V)
-Ole Birk Olesen (LA)
-Joachim B. Olsen (LA)
-Maja Panduro (S)
-Torsten Schack Pedersen (V)
-Jesper Petersen (S)
-Rasmus Helveg Petersen (RV)
-Christian Poll (ALT)
-Ib Poulsen (DF)
-Lisbeth Bech Poulsen (SF)
-Søren Pape Poulsen (KF)
-Troels Lund Poulsen (V)
-Rasmus Prehn (S)
-Lars Aslan Rasmussen (S)
-Lars Løkke Rasmussen (V)
-Søren Egge Rasmussen (EL)
-Troels Ravn (S)
-Mette Reissmann (S)
-Merete Riisager (LA)
-Lotte Rod (RV)
-Pernille Rosenkrantz-Theil (S)
-Anders Samuelsen (LA)
-Ulla Sandbæk (ALT)
-Merete Scheelsbeck (KF)
-Hans Christian Schmidt (V)
-Johanne Schmidt-Nielsen (EL)
-Pernille Schnoor (ALT)
-Hans Kristian Skibby (DF)
-Pernille Skipper (EL)
-Julie Skovsby (S)
-Sjúrður Skaale (JF)
-Peter Skaarup (DF)
-Zenia Stampe (RV)
-Andreas Steenberg (RV)
-Inger Støjberg (V)
-Jakob Sølvhøj (EL)
-Søren Søndergaard (EL)
-Finn Sørensen (EL)
-Mattias Tesfaye (S)
-Peter Hummelgaard Thomsen (S)
-Trine Torp (SF)
-Dorthe Ullemose (DF)
-Rasmus Vestergaard Madsen (EL)
-Nikolaj Villumsen (EL)
-Øjvind Vilsholm (EL)
-Nicolai Wammen (S)
-Lea Wermelin (S)
-Orla Østerby (KF)
-Morten Østergaard (RV)
+Mette Abildgaard (KF)<br>
+Pia Adelsteen (DF)<br>
+Karina Adsbøl (DF)<br>
+Alex Ahrendtsen (DF)<br>
+Yildiz Akdogan (S)<br>
+Simon Emil Ammitzbøll-Bille (LA)<br>
+Hans Andersen (V)<br>
+Kirsten Normann Andersen (SF)<br>
+Magni Arge (T)<br>
+Ida Auken (RV)<br>
+Carsten Bach (LA)<br>
+Britt Bager (V)<br>
+Lise Bech (DF)<br>
+Pernille Bendixen (DF)<br>
+Kenneth Kristensen Berth (DF)<br>
+Liselott Blixt (DF)<br>
+Mette Bock (LA)<br>
+Erling Bonnesen (V)<br>
+Tilde Bork (DF)<br>
+Trine Bramsen (S)<br>
+Stine Brix (EL)<br>
+Henrik Brodersen (DF)<br>
+Kirsten Brosbøl (S)<br>
+Morten Bødskov (S)<br>
+Bent Bøgsted (DF)<br>
+Jan Rytkjær Callesen (DF)<br>
+Erik Christensen (S)<br>
+René Christensen (DF)<br>
+Villum Christensen (LA)<br>
+Kim Christiansen (DF)<br>
+Henrik Dahl (LA)<br>
+Jens Henrik Thulesen Dahl (DF)<br>
+Kristian Thulesen Dahl (DF)<br>
+Lennart Damsbo-Andersen (S)<br>
+Thomas Danielsen (V)<br>
+Mette Hjermind Dencker (DF)<br>
+Mikkel Dencker (DF)<br>
+Pelle Dragsted (EL)<br>
+Karina Due (DF)<br>
+Kaare Dybvad (S)<br>
+Pia Olsen Dyhr (SF)<br>
+Christina Egelund (LA)<br>
+Susanne Eilersen (DF)<br>
+Uffe Elbæk (ALT)<br>
+Louise Schack Elholm (V)<br>
+Karen Ellemann (V)<br>
+Jakob Ellemann-Jensen (V)<br>
+Benny Engelbrecht (S)<br>
+Jakob Engel-Schmidt (V)<br>
+Søren Espersen (DF)<br>
+Dennis Flydtkjær (DF)<br>
+Eva Flyvholm (EL)<br>
+Claus Hjort Frederiksen (V)<br>
+Mette Frederiksen (S)<br>
+Mads Fuglede (V)<br>
+René Gade (ALT)<br>
+Søren Gade (V)<br>
+Martin Geertsen (V)<br>
+Torsten Gejl (ALT)<br>
+Mette Gjerskov (S)<br>
+Julius Graakjær Grantzau (ALT)<br>
+Karin Gaardsted (S)<br>
+Ane Halsboe-Jørgensen (S)<br>
+Aleqa Hammond (NQ)<br>
+Claus Kvist Hansen (DF)<br>
+Eva Kjer Hansen (V)<br>
+Marlene Harpsøe (DF)<br>
+Orla Hav (S)<br>
+Jane Heitmann (V)<br>
+Martin Henriksen (DF)<br>
+Preben Bang Henriksen (V)<br>
+Magnus Heunicke (S)<br>
+Carl Holst (V)<br>
+Peder Hvelplund (EL)<br>
+Henning Hyllested (EL)<br>
+Nick Hækkerup (S)<br>
+Karsten Hønge (SF)<br>
+Bertel Haarder (V)<br>
+Daniel Toft Jakobsen (S)<br>
+Jeppe Jakobsen (DF)<br>
+Rasmus Jarlov (KF)<br>
+Marianne Jelved (RV)<br>
+Jacob Jensen (V)<br>
+Kristian Jensen (V)<br>
+Leif Lahn Jensen (S)<br>
+Michael Aastrup Jensen (V)<br>
+Mogens Jensen (S)<br>
+Thomas Jensen (S)<br>
+Jens Joel (S)<br>
+Jan Johansen (S)<br>
+Anders Johansson (KF)<br>
+Peter Juel-Jensen (V)<br>
+Christian Juhl (EL)<br>
+Dan Jørgensen (S)<br>
+Jan E. Jørgensen (V)<br>
+May-Britt Kattrup (LA)<br>
+Naser Khader (KF)<br>
+Carsten Kissmeyer (V)<br>
+Pia Kjærsgaard (DF)<br>
+Karen J. Klint (S)<br>
+Brigitte Klintskov Jerkel (KF)<br>
+Marcus Knuth (V)<br>
+Peter Kofod (DF)<br>
+Simon Kollerup (S)<br>
+Astrid Krag (S)<br>
+Marie Krarup (DF)<br>
+Henrik Dam Kristensen (S)<br>
+Christian Langballe (DF)<br>
+Rasmus Horn Langhoff (S)<br>
+Henrik Sass Larsen (S)<br>
+Malte Larsen (S)<br>
+Merete Dea Larsen (DF)<br>
+Aaja Chemnitz Larsen (IA)<br>
+Karsten Lauritzen (V)<br>
+Bjarne Laustsen (S)<br>
+Martin Lidegaard (RV)<br>
+Lars Christian Lilleholt (V)<br>
+Annette Lind (S)<br>
+Laura Lindahl (LA)<br>
+Kristian Pihl Lorentzen (V)<br>
+Erik Lund (KF)<br>
+Rosa Lund (EL)<br>
+Rune Lund (EL)<br>
+Malou Lunderød (S)<br>
+Mogens Lykketoft (S)<br>
+Sophie Løhde (V)<br>
+Christian Rabjerg Madsen (S)<br>
+Carolina Magdalene Maier (ALT)<br>
+Morten Marinus (DF)<br>
+Jacob Mark (SF)<br>
+Anni Matthiesen (V)<br>
+Roger Courage Matthisen (ALT)<br>
+Mai Mercado (KF)<br>
+Jan Erik Messmann (DF)<br>
+Leif Mikkelsen (LA)<br>
+Flemming Møller Mortensen (S)<br>
+Holger K. Nielsen (SF)<br>
+Sofie Carsten Nielsen (RV)<br>
+Rasmus Nordqvist (ALT)<br>
+Karin Nødgaard (DF)<br>
+Ellen Trane Nørby (V)<br>
+Ole Birk Olesen (LA)<br>
+Joachim B. Olsen (LA)<br>
+Maja Panduro (S)<br>
+Torsten Schack Pedersen (V)<br>
+Jesper Petersen (S)<br>
+Rasmus Helveg Petersen (RV)<br>
+Christian Poll (ALT)<br>
+Ib Poulsen (DF)<br>
+Lisbeth Bech Poulsen (SF)<br>
+Søren Pape Poulsen (KF)<br>
+Troels Lund Poulsen (V)<br>
+Rasmus Prehn (S)<br>
+Lars Aslan Rasmussen (S)<br>
+Lars Løkke Rasmussen (V)<br>
+Søren Egge Rasmussen (EL)<br>
+Troels Ravn (S)<br>
+Mette Reissmann (S)<br>
+Merete Riisager (LA)<br>
+Lotte Rod (RV)<br>
+Pernille Rosenkrantz-Theil (S)<br>
+Anders Samuelsen (LA)<br>
+Ulla Sandbæk (ALT)<br>
+Merete Scheelsbeck (KF)<br>
+Hans Christian Schmidt (V)<br>
+Johanne Schmidt-Nielsen (EL)<br>
+Pernille Schnoor (ALT)<br>
+Hans Kristian Skibby (DF)<br>
+Pernille Skipper (EL)<br>
+Julie Skovsby (S)<br>
+Sjúrður Skaale (JF)<br>
+Peter Skaarup (DF)<br>
+Zenia Stampe (RV)<br>
+Andreas Steenberg (RV)<br>
+Inger Støjberg (V)<br>
+Jakob Sølvhøj (EL)<br>
+Søren Søndergaard (EL)<br>
+Finn Sørensen (EL)<br>
+Mattias Tesfaye (S)<br>
+Peter Hummelgaard Thomsen (S)<br>
+Trine Torp (SF)<br>
+Dorthe Ullemose (DF)<br>
+Rasmus Vestergaard Madsen (EL)<br>
+Nikolaj Villumsen (EL)<br>
+Øjvind Vilsholm (EL)<br>
+Nicolai Wammen (S)<br>
+Lea Wermelin (S)<br>
+Orla Østerby (KF)<br>
+Morten Østergaard (RV)<br>
